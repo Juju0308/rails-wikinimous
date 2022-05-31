@@ -1,0 +1,19 @@
+@import "bootstrap/scss/bootstrap";
+
+.navbar-lewagon {
+  justify-content: space-between;
+  background: rgb(240, 233, 233);
+}
+
+.navbar-lewagon .navbar-collapse {
+  display: flex;
+  justify-content: space-between;
+}
+
+.navbar-lewagon .navbar-brand img {
+  width: 40px;
+}
+
+.container {
+  text-align: center;
+}
